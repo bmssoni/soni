@@ -1,0 +1,40 @@
+Name	User Logon Name	Type	Description
+Alexander Mitchell	usp.amitchell@erpewp.com	User	Created 08-Nov-2021
+Bethany Kiel	usp.bkiel@erpewp.com	User	Created 25-Aug-2021
+Bob Yoder	usp.byoder@erpewp.com	User	Created 25-Aug-2021
+Brenda Gettleman	usp.bgettleman@erpewp.com	User	Created 25-Aug-2021
+Brian Holtkamp	usp.bholtkamp@erpewp.com	User	
+Brian Johnson	usp.bJohnson@erpewp.com	User	
+Butch Eley.	usp.beley@erpewp.com	User	
+Candice Sinovich	usp.csinovich@erpewp.com	User	Created 20-Sep-2021
+Connor Shanahan	usp.cshanahan@erpewp.com	User	Created 25-Aug-2021
+Ed Hart	usp.ehart@erpewp.com	User	
+Ed Kozdron	usp.ekozdron@erpewp.com	User	
+James Moreland	usp.jmoreland@erpewp.com	User	Created 20-Sep-2021
+Jeff Oakley	usp.joakley@erpewp.com	User	Created 25-Aug-2021
+Jo Higgins	usp.jhiggins@erpewp.com	User	Created 25-Aug-2021
+JoAnn Valenti	usp.jvalenti@erpewp.com	User	Created 25-Aug-2021
+Josh Schmidt	usp.jschmidt@erpewp.com	User	
+Karla Caballero	usp.kcaballero@erpewp.com	User	Created 25-Aug-2021
+Kathy Koebbe	usp.kkoebbe@erpewp.com	User	Created 25-Aug-2021
+Katie Cawvey	usp.kcawvey@erpewp.com	User	Created 25-Aug-2021
+Kenny Reuss	usp.kreuss@erpewp.com	User	Created 25-Aug-2021
+Kevin Walls	usp.kwalls@erpewp.com	User	Created 25-Aug-2021
+Labeling	usp.labeling@erpewp.com	User	Created 25-Aug-2021
+Laura Schubert	usp.lschubert@erpewp.com	User	Created 25-Aug-2021
+Manabu Katagiri	usp.mkatagiri@erpewp.com	User	
+Mark Eissler	usp.meissler@erpewp.com	User	
+Matt Keene	usp.mkeene@erpewp.com	User	
+Michael Weiss	usp.mweiss@erpewp.com	User	Created 25-Aug-2021
+Mike Luczak	usp.mluczak@erpewp.com	User	Created 20-Sep-2021
+QC Lab	usp.qclab@erpewp.com	User	Created 25-Aug-2021
+Randi Skorcz	usp.rskorcz@erpewp.com	User	Created 25-Aug-2021
+Receiving	usp.receiving@erpewp.com	User	Created 22-Dec-2021
+Ryan Luter	usp.rluter@erpewp.com	User	Created 25-Aug-2021
+SG-US Paint	 	Security Group - Global	
+Shelby Hall	usp.shall@erpewp.com	User	
+Stephen Von der Heyde	usp.svonderheyde@erpewp.com	User	Created 25-Aug-2021
+Tiffany Powers	usp.tpowers@erpewp.com	User	
+USP Fdavis	usp.fdavis@erpewp.com	User	
+USP Jhudson	usp.jhudson@erpewp.com	User	
+Wes Cooper	usp.wcooper@erpewp.com	User	
